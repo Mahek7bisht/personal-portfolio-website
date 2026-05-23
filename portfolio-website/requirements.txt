@@ -1,2 +1,0 @@
-No external dependencies required.
-This project is built using HTML5 and CSS3 only.
